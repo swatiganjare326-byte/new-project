@@ -1,2 +1,1 @@
 print("even_odd")
-
